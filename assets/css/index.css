@@ -38,7 +38,7 @@ h1{
 }
 
 #mainPic{
-	height: 400px;
+	height: auto;
 	margin-top: 10px;
 }
 
@@ -91,32 +91,6 @@ h1{
 	padding-top:20px;
 }
 
-#videoContent{
-	padding-left: 40px;
-}
-
-.videos a{
-	padding-bottom: 50px;
-}
-
-#videoContent h3{
-	text-align: center;
-	text-transform: uppercase;
-
-}
-
-.video{
-	height: 300px;
-}
-
-.video-title{
-	padding-bottom: 20px;
-
-}
-#video2{
-	width: 450px;
-
-}
 
 #promo{
 	background-color: #000000;

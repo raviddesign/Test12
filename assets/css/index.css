@@ -60,6 +60,7 @@ h1{
 
 #player{
 	padding-top: 20px;
+	padding-left: 115px;
 }
 
 #albumArt{
@@ -89,6 +90,16 @@ h1{
 
 #music{
 	padding-top:20px;
+}
+
+.movieItem{
+	margin-bottom: : 20px;
+	margin: auto;
+}
+
+.movieItem{
+	padding-bottom: 20px;
+	margin: auto;
 }
 
 

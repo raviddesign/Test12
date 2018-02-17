@@ -60,7 +60,9 @@ h1{
 
 #player{
 	padding-top: 20px;
-	padding-left: 115px;
+	margin: auto;
+	width: 50%;
+	
 }
 
 #albumArt{

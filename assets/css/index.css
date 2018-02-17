@@ -83,6 +83,10 @@ h1{
 	padding-top:20px;
 }
 
+#player{
+	padding-right: 500px;
+}
+
 #movies{
 	margin: auto;
 }
@@ -94,10 +98,12 @@ h1{
 	align-self: center;
 }
 
-#movieItems{
+#movieItemsSm{
 	margin: auto;
 	width: 50%;
 }
+
+
 
 
 #promo{

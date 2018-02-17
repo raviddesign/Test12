@@ -1,6 +1,7 @@
 body{
 	background-color: #232526;
 	margin-top: 100px;
+	margin-bottom: 100px;
 	color: #736D68;
 }
 
@@ -81,6 +82,7 @@ h1{
 
 #music{
 	padding-top:20px;
+	margin: auto;
 }
 
 #player{
@@ -88,21 +90,29 @@ h1{
 }
 
 #movies{
-	margin: auto;
+	width: 100%;
 }
 
 
 .movieItem{
 
 	padding-top: 20px;
-	align-self: center;
+	width: 100%;
 }
 
 #movieItemsSm{
 	margin: auto;
-	width: 50%;
 }
 
+.buzLink{
+	width: 100%;
+	background-color: rgba(35,37,36,0.8);
+}
+
+.buzLinkSec{
+	padding-top: 10px;
+
+}
 
 
 

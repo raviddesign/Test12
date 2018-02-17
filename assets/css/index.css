@@ -92,14 +92,20 @@ h1{
 	padding-top:20px;
 }
 
-.movieItem{
-	margin-bottom: : 20px;
+#movies{
 	margin: auto;
 }
 
+
 .movieItem{
-	padding-bottom: 20px;
+
+	padding-top: 20px;
+	align-self: center;
+}
+
+#movieItems{
 	margin: auto;
+	width: 50%;
 }
 
 
